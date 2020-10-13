@@ -5,7 +5,7 @@
       "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "price": "19.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
@@ -35,10 +35,18 @@
     {
       "name": "A mexicana",
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "description": "Macarrão calliente com molho de pimentas flambado em tequila",
       "price": "24.90",
-      "available": true,
+      "description": "Macarrão calliente com molho de pimentas flambado em tequila",
+      "available": false,
       "id": 5
+    },
+    {
+      "name": "A tutti-frutti",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "price": "23.90",
+      "description": "Macarrão na moranga ao molho de frutos do mar.",
+      "available": true,
+      "id": 6
     }
   ]
 }
