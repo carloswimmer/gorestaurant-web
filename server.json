@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "name": "À belle mollier",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "description": "Macarrão ao molho de camarão e alcaparras do Mediterrâneo ",
+      "price": "39.90",
+      "available": true,
+      "id": 4
     }
   ]
 }
